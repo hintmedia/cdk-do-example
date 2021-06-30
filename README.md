@@ -12,6 +12,9 @@ To install cdktf, we will use `npm install`
 
 `$ npm install --global cdktf-cli`
 
+To install dependencies:
+`$ yarn install`
+
 You will also need to [create a personal access token](https://docs.digitalocean.com/reference/api/create-personal-access-token/) on Digital Ocean if you would like to deploy this config.
 
 With that out of the way, let's deploy our example.
